@@ -1,4 +1,4 @@
-# 04-01-03-inheritence-simcar
+# 04-01-03-inheritence-simcard
 ## Öröklődés (beadandó feladat)
 ![image](https://user-images.githubusercontent.com/6060514/116874919-5fb8b600-ac1a-11eb-9a00-635db62479e5.png)
 ### Tesztkód
